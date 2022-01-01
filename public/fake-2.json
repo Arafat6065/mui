@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Mahmudullah",
+        "image": "./players/pic-1.jfif",
+        "titleSub": "TEAM MANAGER"
+    },
+    {
+        "id": 2,
+        "name": "Tamim Iqbal",
+        "image": "./players/pic-2.jfif",
+        "title": "DIRECTOR OF RECRUITMENT"
+    },
+    {
+        "id": 3,
+        "name": "Mashrafe Mortaza",
+        "image": "./players/pic-3.jpg",
+        "title": "CHIEF EXECUTIVE OFFICER"
+    },
+    {
+        "id": 4,
+        "name": "Shuvagata Hom",
+        "image": "./players/pic-4.jpg",
+        "title": "CHAIRMAN"
+    },
+    {
+        "id": 5,
+        "name": "Qais Ahmad",
+        "image": "./players/pic-5.jpg",
+        "title": "CHIEF MARKETING OFFICER"
+    },
+    {
+        "id": 6,
+        "name": "Najibullah Zadran ",
+        "image": "./players/pic-6.jfif",
+        "title": " HEAD COACH"
+    },
+    {
+        "id": 7,
+        "name": "Isuru Udana ",
+        "image": "./players/pic-7.jfif",
+        "title": " HEAD COACH"
+    },
+    {
+        "id": 8,
+        "name": "Mohammad Shahzad ",
+        "image": "./players/pic-8.jpg",
+        "title": " HEAD COACH"
+    },
+    {
+        "id": 9,
+        "name": "Fazalhaq Farooqi ",
+        "image": "./players/pic-9.png",
+        "title": " HEAD COACH"
+    }
+]

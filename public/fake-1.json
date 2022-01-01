@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Azam Iqbal",
+        "image": "./dhaka/pic-1.jpg",
+        "title": "TEAM MANAGER"
+    },
+    {
+        "id": 2,
+        "name": "Charlie Austin",
+        "image": "./dhaka/pic-2.jpg",
+        "title": "DIRECTOR OF RECRUITMENT"
+    },
+    {
+        "id": 3,
+        "name": "Obeid R. Nizam",
+        "image": "./dhaka/pic-3.jpg",
+        "title": "CHIEF EXECUTIVE OFFICER"
+    },
+    {
+        "id": 4,
+        "name": "Ahmed Shayan Fazlur Rahman",
+        "image": "./dhaka/pic-4.jpg",
+        "title": "CHAIRMAN"
+    },
+    {
+        "id": 5,
+        "name": "Mehran H Chowdhury",
+        "image": "./dhaka/pic-5.jpg",
+        "title": "CHIEF MARKETING OFFICER"
+    },
+    {
+        "id": 6,
+        "name": "Khaled Mahmud Sujan ",
+        "image": "./dhaka/pic-7.png",
+        "title": " HEAD COACH"
+    }
+]

@@ -1,0 +1,21 @@
+/* .row{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+} */
+.footer{
+    background-color: gray;
+}
+.facebook{
+    color: #8a2be2;
+   padding: 10px;
+}
+.facebook:hover{
+    color: chartreuse;
+}
+.footer-link:hover{
+color: #fff;
+}
+.btn:hover{
+    color: #fff;
+    background-color: rgb(124, 29, 29);
+}
